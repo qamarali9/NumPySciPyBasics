@@ -1,0 +1,2 @@
+# NumPySciPyBasics
+Some numpy basics
